@@ -52,9 +52,8 @@ Make sure you have Flutter installed. [Flutter Installation Guide](https://docs.
 ### Installation
 
 1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/dppel/Task_App.git](https://github.com/dppel/Task_App.git)
-    ```
+
+    git clone [https://github.com/dppel/Task_App.git](https://github.com/dppel/Task_App.git) 
 
 2.  **Navigate to the project directory**
     ```bash
