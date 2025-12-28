@@ -78,4 +78,6 @@ Make sure you have Flutter installed. [Flutter Installation Guide](https://docs.
 lib/
 ├── main.dart           # Entry point of the application
 ├── screens/            # UI Screens (Home, Profile, etc.)
-└── widgets/            # Reusable widgets (Custom Cards, NavBar)
+├── widgets/            # Reusable widgets (Custom Cards, NavBar)
+├── models/             # task.dart
+└── constants/          # colors.dart
