@@ -11,6 +11,7 @@ A modern, clean, and responsive user interface for a Task Management application
 ## 📸 Screenshots
 
 | Home Screen | 
+
 <img width="635" height="916" alt="Στιγμιότυπο οθόνης 2025-12-27 163044" src="https://github.com/user-attachments/assets/4bb65fbc-03f4-4180-b0f2-a26f4dda1008" />
 
 | Task Categories |
@@ -35,8 +36,8 @@ A modern, clean, and responsive user interface for a Task Management application
 
 ## 🛠️ Tech Stack
 
-* **Framework:** [Flutter](https://flutter.dev/)
-* **Language:** [Dart](https://dart.dev/)
+* **Framework:** [Flutter v. 3.38.5 ](https://flutter.dev/)
+* **Language:** [Dart v. 3.10.4](https://dart.dev/)
 * **IDE:** VS Code
 
 ---
